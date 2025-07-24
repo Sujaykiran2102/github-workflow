@@ -22,8 +22,3 @@ Welcome to **Code Clash**, a fun and interactive platform where users can challe
 | Tailwind CSS | Express.js    |                  |                     |
 
 ---
-
-## 📁 Folder Structure
-
-/client # React frontend
-/server # Node.js + Express backend
